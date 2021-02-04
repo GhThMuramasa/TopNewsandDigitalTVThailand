@@ -27,9 +27,6 @@ http://160.119.77.116:8081/iptv/sd-nbt.stream/playlist.m3u8
 #EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEX4t1WjnFfiqIGj_jDGntmkzlbS-Y6_zV6w&usqp=CAU", Thai PBS
 http://160.119.77.116:8081/iptv/hd-tpbs.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT3VFvpeRC0EG8Ow3ToJlwJGdwL5vn5__C9w&usqp=CAU", TNN​ 16
-https://cdn6.goprimetime.info/feed/chtnn/index.m3u8
-
 #EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjwSfBOQmy_WOMreWjUS7BgGBkAk_XvV83wg&usqp=CAU", WORKPOINT​
 http://160.119.77.116:8081/iptv/hd-workpoint.stream/playlist.m3u8
 
